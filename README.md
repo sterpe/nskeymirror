@@ -1,7 +1,7 @@
 # nsKeyMirror
 
 ### API
-	function (obj [, namespace]) {}
+	Object: function (obj [, namespace]) {}
 
 ### Example
 ```javascript
