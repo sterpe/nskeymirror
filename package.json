@@ -1,7 +1,7 @@
 {
   "name": "nskeymirror",
   "version": "0.1.1",
-  "description": "A namespaced keymirror with an MIT license.",
+  "description": "A namespaced keymirror.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
