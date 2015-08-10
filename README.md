@@ -1,5 +1,8 @@
 # nsKeyMirror
 
+### Install
+	npm install nskeymirror
+
 ### API
 	Object: function (obj [, namespace]) {}
 
