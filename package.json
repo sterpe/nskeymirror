@@ -1,10 +1,9 @@
 {
   "name": "nskeymirror",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A namespaced keymirror with an MIT license.",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "jest-cli": "^0.4.18"
   },
