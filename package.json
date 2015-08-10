@@ -1,0 +1,30 @@
+{
+  "name": "nskeymirror",
+  "version": "0.1.0",
+  "description": "A namespaced keymirror with an MIT license.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest-cli": "^0.4.18"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "keymirror",
+    "namespace-keymirror",
+    "react",
+    "flux"
+  ],
+  "author": "Steve Terpe <srterpe@gmail.com> (https://github.com/sterpe)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/nskeymirror.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sterpe/nskeymirror/issues"
+  },
+  "homepage": "https://github.com/sterpe/nskeymirror#readme"
+}
