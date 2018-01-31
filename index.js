@@ -6,7 +6,7 @@ module.exports = function (obj, namespace) {
 				'[object Array]')) {
 		throw new Error('nsKeyMirror map must be an object!');
 	}
-	for (key in obj) {
+	for (var key in obj) {
 		if (obj.hasOwnProperty(key)) {
 			if (namespace) {
 				o[key] = key + '@' + namespace;
